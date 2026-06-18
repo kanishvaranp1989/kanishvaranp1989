@@ -13,7 +13,7 @@
 
 # Kanish Varan — Senior Site Reliability Engineer
 
-### 🛡️ Senior SRE with 12+ years operating production systems at scale.
+### 🛡️ Senior SRE with 12+ years of experience operating production systems at scale.
 
 **Azure Cloud · Kubernetes (CKA) · Terraform · Kafka · Observability · Incident Response**
 
@@ -34,6 +34,16 @@ Senior **Site Reliability Engineer** with **12+ years** in IT, specializing in t
 I work at the intersection of **platform engineering, observability, and reliability**: building the Kubernetes platforms, CI/CD pipelines, and telemetry that engineering teams depend on, and owning the on-call practices that keep them up.
 
 > **What I optimize for:** fewer incidents, faster recovery, lower cloud spend, and engineers who sleep through the night.
+
+---
+
+## 👋 Professional Bio
+
+I'm a **Senior Site Reliability Engineer** with **12+ years in IT**, focused on making large-scale **Azure** platforms reliable, observable, and cost-efficient. My day-to-day spans **Kubernetes (CKA-certified)**, **Terraform**, **Kafka / Confluent Cloud**, and a deep observability stack — **Prometheus, Grafana, Dynatrace, and Splunk**.
+
+I believe reliability is an engineering discipline, not a firefighting role: I define **SLOs and error budgets**, automate toil away with **Python, Bash, Azure Functions, and Logic Apps**, and lead **incident response** with calm, blameless rigor. I care as much about the **postmortem and the runbook** as the fix itself — because resilient systems come from the practices around them, not just the code.
+
+I'm happiest building the platforms, pipelines, and telemetry that let other engineers ship safely and sleep soundly.
 
 ---
 
