@@ -19,7 +19,7 @@
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=kanishvaranp1989&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
-  <a href="https://www.linkedin.com/in/[your-linkedin]"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/kanishvaran-palanisamy-41a94284/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:kanishvaran@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20out-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -31,7 +31,7 @@
 
 Senior **Site Reliability Engineer** with **12+ years** in IT, specializing in the design, automation, and 24×7 operation of large-scale **Azure** cloud platforms. I keep production systems **reliable, observable, and cost-efficient** — translating SLOs into engineering work, driving incident response, and replacing toil with automation.
 
-I work at the intersection of **platform engineering, observability, and reliability**: building the Kubernetes platforms, CI/CD pipelines, and telemetry that engineering teams depend on, and owning the on-call practices that keep them up.
+Today I operate **~40 production applications** across Azure integration and Kubernetes workloads at **99.9%+ availability**, processing **millions of transactions monthly**. I work at the intersection of **platform engineering, observability, and reliability**: building the Kubernetes platforms, CI/CD pipelines, and telemetry that engineering teams depend on, and owning the on-call practices that keep them up.
 
 > **What I optimize for:** fewer incidents, faster recovery, lower cloud spend, and engineers who sleep through the night.
 
@@ -102,10 +102,9 @@ I'm happiest building the platforms, pipelines, and telemetry that let other eng
 | Certification | Issuer | Status |
 |---|---|---|
 | ![CKA](https://img.shields.io/badge/CKA-Certified_Kubernetes_Administrator-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | The Linux Foundation / CNCF | ✅ Certified |
-| Microsoft Azure (e.g. AZ-104 / AZ-305) | Microsoft | _[add the exact cert(s) you hold]_ |
-| Terraform Associate | HashiCorp | _[add if held / in progress]_ |
+| ![Terraform](https://img.shields.io/badge/Terraform_Associate-7B42BC?style=flat-square&logo=terraform&logoColor=white) | HashiCorp | 🚧 In Progress |
 
-> _Replace the second and third rows with your actual certifications and remove any you don't hold._
+> Backed by extensive **hands-on Azure production operations** experience across integration, serverless, and Kubernetes workloads.
 
 ---
 
@@ -233,14 +232,12 @@ Automates the incident lifecycle: alert enrichment, on-call paging, war-room cre
 
 ## 🏆 Achievements
 
-> _Fill these with your real numbers — they're the most powerful part of the profile. Examples of the shape recruiters look for:_
-
-- 🔻 Reduced **MTTR** by **[X]%** across **[N]** production services through better signals and runbooks.
-- 💰 Cut Azure cloud spend by **[$X / Y%]** via right-sizing, autoscaling, and waste elimination.
-- 🚨 Led incident response for **[N]** Sev1/Sev2 incidents with **[X]%** within-SLA recovery.
-- 🤖 Automated **[N]** recurring manual tasks, removing **[X hours/week]** of toil.
-- ☸️ Operated **[N]** Kubernetes clusters / **[N]** services at **[X]** uptime.
-- 📈 Defined SLOs and error-budget policy for **[N]** critical services.
+- 🟢 Operate **~40 production applications** across Azure middleware & integration platforms — Logic Apps, Functions, Service Bus, Storage, and Event Hubs across multiple subscriptions — sustaining **99.9%+ availability** while processing **millions of transactions monthly**.
+- 🔻 Reduced **MTTR by ~40%** (roughly 2 hours → under 45 minutes for common middleware failures) via monitoring dashboards, alert correlation, automated diagnostics, and runbooks.
+- 🚨 Led and responded to **50+ Sev2 and 10+ Sev1 incidents** on an on-call SRE rotation — owning incident command, troubleshooting, stakeholder communication, and root-cause remediation.
+- 🤖 Eliminated repetitive operational toil — Logic App resubmissions, Kafka consumer-lag monitoring, health-check validation, config backups, and alert enrichment — saving **~10–15 engineering hours per week**.
+- 💰 Cut observability spend **~15–20%** by optimizing Azure monitoring/logging configurations and reducing unnecessary telemetry ingestion.
+- 📈 Improved critical-service availability from **99.5% → 99.9%** by defining reliability indicators, implementing proactive alerting, and reducing alert noise through tuning.
 
 ---
 
@@ -265,7 +262,7 @@ Automates the incident lifecycle: alert enrichment, on-call paging, war-room cre
 
 I'm open to **Senior SRE / Production Engineer / Platform Engineer** conversations.
 
-<a href="https://www.linkedin.com/in/[your-linkedin]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/kanishvaran-palanisamy-41a94284/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:kanishvaran@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/kanishvaranp1989"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
